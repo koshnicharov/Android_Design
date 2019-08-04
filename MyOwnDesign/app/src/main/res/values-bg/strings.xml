@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Собствен дизайн</string>
+    <!-- My Text -->
+    <string name="title">М. Кошничаров</string>
+    <string name="purpose">Това Android приложение демонстрира уменията ми по програмиране. То е създадено от мен, Марио Генчев Кошничаров. Поддържа превод на английски.</string>
+    <string name="language">Преведи на английски</string>
+    <string name="description">Това Активити се състои от общи шаблони. Дизайнът е описан в style.xml, а цветовете са дефинирани в color.xml. Папката "strings" съдържа текстовете на български и на английски.</string>
+    <string name="todo">Въведете Вашите данни. Те няма да бъдат запазени. Това е просто демонстрация на функционалността.</string>
+    <string name="name">Вашето име</string>
+    <string name="email">Вашият имейл</string>
+    <string name="submit">Напред</string>
+    <string name="link">Github акаунт</string>
+
+    <string name="output">Вашите данни бяха успешно прехвърлени</string>
+    <string name="change">Избери език</string>
+</resources>

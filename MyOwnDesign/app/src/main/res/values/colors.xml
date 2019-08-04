@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorOrange">#ffa500</color>
+    <color name="colorDarkOrange">#cc8500</color>
+
+    <color name="colorNav">#00ccff</color>
+    <color name="colorNavHover">#00b8e6</color>
+
+    <color name="colorText">#404040</color>
+    <color name="colorNavLink">#fff</color>
+
+    <color name="colorLink">#456cba</color>
+    <color name="colorLinkHover">#304c82</color>
+</resources>

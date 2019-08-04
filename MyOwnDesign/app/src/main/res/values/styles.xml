@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorNav</item>
+        <item name="colorPrimaryDark">@color/colorNavHover</item>
+        <item name="colorAccent">@color/colorDarkOrange</item>
+        <item name="android:textViewStyle">@style/TextViewStyling</item>
+    </style>
+    <style name="TextViewStyling">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+</resources>

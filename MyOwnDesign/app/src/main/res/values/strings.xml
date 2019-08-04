@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Own Design</string>
+    <!-- My Text -->
+    <string name="title">mKoshnicharov</string>
+    <string name="purpose">The purpose of this Android application is to demonstrate the skills of the author. It is created by Mario Genchev Koshnicharov. It also supports Bulgarian language.</string>
+    <string name="language">Translate in Bulgarian</string>
+    <string name="description">This Activity shares one header and one footer. The application creates it\'s own style in the style.xml file. The colors are defined in color.xml. The "strings" folder includes the texts in both languages.</string>
+    <string name="todo">Enter your name and your email to open a new Activity. This will not register any data.</string>
+    <string name="name">Your Name</string>
+    <string name="email">Your Email</string>
+    <string name="submit">Next</string>
+    <string name="link">My github page</string>
+
+    <string name="output">Your data was successfully passed to the other Activity.</string>
+    <string name="change">Choose Language</string>
+</resources>
